@@ -1,5 +1,7 @@
-package com.example.Project.project;
+package com.example.Project.project.service;
 
+import com.example.Project.project.model.Table_one;
+import com.example.Project.project.repo.TableOneRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

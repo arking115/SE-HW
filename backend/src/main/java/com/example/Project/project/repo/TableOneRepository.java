@@ -1,5 +1,6 @@
-package com.example.Project.project;
+package com.example.Project.project.repo;
 
+import com.example.Project.project.model.Table_one;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

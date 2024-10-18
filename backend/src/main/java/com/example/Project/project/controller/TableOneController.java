@@ -1,5 +1,7 @@
-package com.example.Project.project;
+package com.example.Project.project.controller;
 
+import com.example.Project.project.service.TableOneService;
+import com.example.Project.project.model.Table_one;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
